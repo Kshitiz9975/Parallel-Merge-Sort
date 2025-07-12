@@ -2,8 +2,8 @@
 #include <vector>
 #include <mutex>
 #include <chrono> // Include chrono for timing
-#include "sorting/mergeSort.hpp"
-#include "sorting/parallelMergeSort.hpp"
+#include "mergeSort.hpp"
+#include "parallelMergeSort.hpp"
 
 int main(int argc, char *argv[]) {
 
