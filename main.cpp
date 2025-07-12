@@ -5,7 +5,7 @@
 #include "mergeSort.hpp"
 #include "parallelMergeSort.hpp"
 
-int main(int argc, char *argv[]) {
+int main() {
 
     const int SIZE = 10000000;
     std::vector<int> nums(SIZE);
